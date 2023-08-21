@@ -1,0 +1,30 @@
+2023/08/21-21:22:18.759 52b58 Reusing MANIFEST /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/21-21:22:18.760 52b58 Recovering log #794
+2023/08/21-21:22:18.762 52b58 Reusing old log /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/Sync Data/LevelDB/000794.log 
+2023/08/21-21:22:49.838 52b3d Level-0 table #798: started
+2023/08/21-21:22:49.844 52b3d Level-0 table #798: 126978 bytes OK
+2023/08/21-21:22:49.848 52b3d Delete type=0 #794
+2023/08/21-21:44:49.453 52b32 Level-0 table #800: started
+2023/08/21-21:44:49.457 52b32 Level-0 table #800: 105689 bytes OK
+2023/08/21-21:44:49.459 52b32 Delete type=0 #797
+2023/08/21-22:02:48.873 52b3f Level-0 table #802: started
+2023/08/21-22:02:48.877 52b3f Level-0 table #802: 110680 bytes OK
+2023/08/21-22:02:48.879 52b3f Delete type=0 #799
+2023/08/21-22:02:48.879 52b3f Compacting 4@0 + 1@1 files
+2023/08/21-22:02:48.885 52b3f Generated table #803@0: 696 keys, 159042 bytes
+2023/08/21-22:02:48.885 52b3f Compacted 4@0 + 1@1 files => 159042 bytes
+2023/08/21-22:02:48.886 52b3f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/21-22:02:48.886 52b3f Delete type=2 #793
+2023/08/21-22:02:48.886 52b3f Delete type=2 #800
+2023/08/21-22:02:48.886 52b3f Delete type=2 #798
+2023/08/21-22:02:48.887 52b3f Delete type=2 #802
+2023/08/21-22:02:48.887 52b3f Delete type=2 #795
+2023/08/21-22:21:09.513 52b3f Level-0 table #805: started
+2023/08/21-22:21:09.517 52b3f Level-0 table #805: 125700 bytes OK
+2023/08/21-22:21:09.519 52b3f Delete type=0 #801
+2023/08/21-22:34:07.677 52b3d Level-0 table #807: started
+2023/08/21-22:34:07.680 52b3d Level-0 table #807: 106814 bytes OK
+2023/08/21-22:34:07.682 52b3d Delete type=0 #804
+2023/08/21-22:53:29.783 52b32 Level-0 table #809: started
+2023/08/21-22:53:29.789 52b32 Level-0 table #809: 84562 bytes OK
+2023/08/21-22:53:29.791 52b32 Delete type=0 #806

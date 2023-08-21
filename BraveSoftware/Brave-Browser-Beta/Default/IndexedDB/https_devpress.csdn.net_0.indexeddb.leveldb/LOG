@@ -1,0 +1,6 @@
+2023/08/19-19:42:46.860 55d Creating DB /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_devpress.csdn.net_0.indexeddb.leveldb since it was missing.
+2023/08/19-19:42:46.864 55d Reusing MANIFEST /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_devpress.csdn.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/19-20:31:23.292 55e Level-0 table #5: started
+2023/08/19-20:31:23.294 55e Level-0 table #5: 4076 bytes OK
+2023/08/19-20:31:23.296 55e Delete type=0 #3
+2023/08/19-20:31:23.296 55e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

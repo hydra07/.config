@@ -1,0 +1,6 @@
+2023/08/08-22:24:22.582 13764 Creating DB /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
+2023/08/08-22:24:22.586 13764 Reusing MANIFEST /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/08-23:43:22.682 13765 Level-0 table #5: started
+2023/08/08-23:43:22.683 13765 Level-0 table #5: 8250 bytes OK
+2023/08/08-23:43:22.685 13765 Delete type=0 #3
+2023/08/08-23:43:22.685 13765 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

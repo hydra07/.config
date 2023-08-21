@@ -1,0 +1,546 @@
+{
+   "checksum": "8674aa46846e7b4092740f930a87431c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13272703976000000",
+            "date_last_used": "13334765624534721",
+            "guid": "59656645-0585-419e-8294-4f141a7dd551",
+            "id": "5",
+            "name": "Dịch",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "children": [ {
+               "date_added": "13281025196000000",
+               "date_last_used": "0",
+               "guid": "4a12a6c7-5fc4-47ab-80f1-bedcd2e441c7",
+               "id": "7",
+               "name": "GitHub - daltonmenezes/aura-theme: ✨ A beautiful dark theme for your favorite apps. #Hacktoberfest",
+               "type": "url",
+               "url": "https://github.com/daltonmenezes/aura-theme?utm_source=j2team&utm_medium=url_shortener"
+            }, {
+               "date_added": "13282850573000000",
+               "date_last_used": "0",
+               "guid": "eb4f197e-a4f9-4d0b-8736-a9fa75f37efa",
+               "id": "8",
+               "name": "dotfiles/.config at main · RaZ0rr-Two/dotfiles",
+               "type": "url",
+               "url": "https://github.com/RaZ0rr-Two/dotfiles/tree/main/.config"
+            }, {
+               "date_added": "13283007272000000",
+               "date_last_used": "0",
+               "guid": "c15457e5-f3e5-45b9-a3bf-4e53ef2f30e7",
+               "id": "9",
+               "name": "Hướng dẫn cài đặt Arch + i3-gap",
+               "type": "url",
+               "url": "https://gist.github.com/fjpalacios/441f2f6d27f25ee238b9bfcb068865db"
+            }, {
+               "date_added": "13300383091000000",
+               "date_last_used": "0",
+               "guid": "6b2061f7-bb79-4782-a7a9-cc5c01694566",
+               "id": "10",
+               "name": "srcolinas/roadmap-to-AI",
+               "type": "url",
+               "url": "https://github.com/srcolinas/roadmap-to-AI?fbclid=IwAR0BSyUs86IWMbTMulbMGLZIs-xjmNf6JLEdekomzmiz2RnSRS06a5A3HsM"
+            }, {
+               "date_added": "13300383181000000",
+               "date_last_used": "0",
+               "guid": "9df8d385-7e92-4201-a16c-57ec066bad12",
+               "id": "11",
+               "name": "DjangoEx/python-engineer-roadmap: Python Engineer Roadmap",
+               "type": "url",
+               "url": "https://github.com/DjangoEx/python-engineer-roadmap"
+            }, {
+               "date_added": "13301501517000000",
+               "date_last_used": "0",
+               "guid": "8f072663-3c32-44d5-899c-d45c667a7423",
+               "id": "12",
+               "name": "d",
+               "type": "url",
+               "url": "https://thaycacac.github.io/fpt/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "3919c000-b871-437e-941c-40656fc52a23",
+               "id": "13",
+               "name": "craftzdog/dotfiles-public: My personal dotfiles",
+               "type": "url",
+               "url": "https://github.com/craftzdog/dotfiles-public"
+            }, {
+               "date_added": "13308035780000000",
+               "date_last_used": "0",
+               "guid": "b952afbb-443f-443c-80e3-620b65a17c92",
+               "id": "14",
+               "name": "owl4ce/dotfiles: Aesthetic OpenboxWM Environment",
+               "type": "url",
+               "url": "https://github.com/owl4ce/dotfiles?fbclid=IwAR0tAs9RmXgQhsRjGzsGPuTQVdEGkGWhghZu_G5xcq1Joq7Ay5SiLp_p35k"
+            }, {
+               "date_added": "13308249190000000",
+               "date_last_used": "0",
+               "guid": "d6a54185-420a-4505-91b4-44e9d88a95b4",
+               "id": "15",
+               "name": "GitHub - catppuccin/nvim: 🍨 Soothing pastel theme for NeoVim",
+               "type": "url",
+               "url": "https://github.com/catppuccin/nvim"
+            }, {
+               "date_added": "13311954874000000",
+               "date_last_used": "0",
+               "guid": "633197a0-2ad6-4731-9f78-6e32957dd807",
+               "id": "16",
+               "name": "ban_tin_so_2_iucn_eng_2.4.2021_-_final_final.pdf",
+               "type": "url",
+               "url": "https://www.iucn.org/sites/default/files/content/documents/2021/ban_tin_so_2_iucn_eng_2.4.2021_-_final_final.pdf"
+            }, {
+               "date_added": "13301501517000000",
+               "date_last_used": "0",
+               "guid": "4526e1ed-eafe-4a7f-b57e-83a48bdf7ae5",
+               "id": "17",
+               "name": "FPT University",
+               "type": "url",
+               "url": "https://thaycacac.github.io/fpt/"
+            }, {
+               "date_added": "13329320649000000",
+               "date_last_used": "0",
+               "guid": "2f670a7c-621d-4c29-a699-cb6a7e0bf283",
+               "id": "18",
+               "name": "vinta/awesome-python: A curated list of awesome Python frameworks, libraries, software and resources",
+               "type": "url",
+               "url": "https://github.com/vinta/awesome-python"
+            }, {
+               "date_added": "13330590060000000",
+               "date_last_used": "0",
+               "guid": "4e3e5fa7-787f-421a-ad4c-fe8b8f064f63",
+               "id": "19",
+               "name": "API sử dụng và ngôn ngữ",
+               "type": "url",
+               "url": "https://chat.openai.com/"
+            }, {
+               "date_added": "13325253584000000",
+               "date_last_used": "0",
+               "guid": "8f189052-7806-47eb-9107-340a1befe00d",
+               "id": "20",
+               "name": "d",
+               "type": "url",
+               "url": "https://www.lunarvim.org/docs/plugins/extra-plugins"
+            }, {
+               "date_added": "13333985916838527",
+               "date_last_used": "0",
+               "guid": "680c2a34-8dc6-49c0-ae66-06d0fceea5d0",
+               "id": "21",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Getting started with Rust and WebAssembly",
+               "type": "url",
+               "url": "https://grafbase.com/blog/getting-started-with-rust-and-webassembly"
+            }, {
+               "date_added": "13335975866472607",
+               "date_last_used": "0",
+               "guid": "9920ff0d-6ac6-48bc-aae7-b396227d6d4d",
+               "id": "67",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "igorlfs/dotfiles: Configs for mostly Hrprland and Neovim",
+               "type": "url",
+               "url": "https://github.com/igorlfs/dotfiles/tree/main"
+            } ],
+            "date_added": "13330687168545206",
+            "date_last_used": "0",
+            "date_modified": "13335975866472607",
+            "guid": "fb7258a9-fddb-4a61-bc18-db8a3b81fea2",
+            "id": "6",
+            "name": "Github",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13325253584000000",
+               "date_last_used": "0",
+               "guid": "f3f8d0cc-75ec-461d-bc52-e624e69e4072",
+               "id": "23",
+               "name": "d",
+               "type": "url",
+               "url": "https://www.lunarvim.org/docs/plugins/extra-plugins"
+            }, {
+               "date_added": "13324799083000000",
+               "date_last_used": "0",
+               "guid": "4cfe3b1c-6341-4488-a8d6-bd458c25aefc",
+               "id": "24",
+               "name": "Graphs | common_curriculum",
+               "type": "url",
+               "url": "https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html"
+            }, {
+               "date_added": "13324799059000000",
+               "date_last_used": "0",
+               "guid": "f2ac2a58-d0a0-4fa2-b065-b20912f35e9f",
+               "id": "25",
+               "name": "Stacks and Queues | common_curriculum",
+               "type": "url",
+               "url": "https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html"
+            }, {
+               "date_added": "13324796661000000",
+               "date_last_used": "0",
+               "guid": "f7289a1d-8057-4043-b906-be6feeac6449",
+               "id": "26",
+               "name": "Trees | common_curriculum",
+               "type": "url",
+               "url": "https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html"
+            }, {
+               "date_added": "13324224231000000",
+               "date_last_used": "0",
+               "guid": "1656bc1d-5f01-4e80-9a32-d1b54fe11706",
+               "id": "27",
+               "name": "Visualgo",
+               "type": "url",
+               "url": "https://visualgo.net/en"
+            }, {
+               "date_added": "13324062352000000",
+               "date_last_used": "0",
+               "guid": "989f6a72-7a0b-49dd-99c5-44a609210113",
+               "id": "28",
+               "name": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
+               "type": "url",
+               "url": "https://www.nerdfonts.com/font-downloads"
+            }, {
+               "date_added": "13319719987000000",
+               "date_last_used": "0",
+               "guid": "3c1442e4-eabc-4e97-8e99-34d81aff29eb",
+               "id": "29",
+               "name": "Roadmap PDFs - roadmap.sh",
+               "type": "url",
+               "url": "https://roadmap.sh/pdfs"
+            }, {
+               "date_added": "13283192049000000",
+               "date_last_used": "0",
+               "guid": "23e5c93a-60a7-4d03-8dbb-5288c0694046",
+               "id": "30",
+               "name": "How to Get Started With Python?",
+               "type": "url",
+               "url": "https://www.programiz.com/python-programming/first-program"
+            }, {
+               "date_added": "13283192081000000",
+               "date_last_used": "0",
+               "guid": "2df5f8ae-e92b-48e9-b46c-8a21cc7b9aef",
+               "id": "31",
+               "name": "Python Programming Language - GeeksforGeeks",
+               "type": "url",
+               "url": "https://www.geeksforgeeks.org/python-programming-language/?ref=lbp"
+            }, {
+               "date_added": "13283192094000000",
+               "date_last_used": "0",
+               "guid": "5c0039fe-61c9-4929-a556-b895718a9825",
+               "id": "32",
+               "name": "PythonBooks - Learn Python the easy way !",
+               "type": "url",
+               "url": "https://pythonbooks.revolunet.com/"
+            }, {
+               "date_added": "13284142652000000",
+               "date_last_used": "0",
+               "guid": "b50229d0-ec4d-408a-aac6-bf20cac21498",
+               "id": "33",
+               "name": "Python Tutorial",
+               "type": "url",
+               "url": "https://www.w3schools.com/python/"
+            }, {
+               "date_added": "13284144627000000",
+               "date_last_used": "0",
+               "guid": "18b10d72-3902-4719-ad10-0d990f483b3a",
+               "id": "34",
+               "name": "spotify API",
+               "type": "url",
+               "url": "https://developer.spotify.com/dashboard/applications/2ac54497e41e4ec188853fa60ef4a741"
+            }, {
+               "date_added": "13286194406000000",
+               "date_last_used": "0",
+               "guid": "d8c3a5cf-82d4-47a6-ab07-74a99efd2add",
+               "id": "35",
+               "name": "Cách cài đặt Deepin DDE trên Ubuntu 20.04. Ngày 19.04 | 18.04 LTS Linux",
+               "type": "url",
+               "url": "https://www.how2shout.com/linux/how-to-install-deepin-dde-on-ubuntu-20-04-19-04-18-04-lts-linux/"
+            }, {
+               "date_added": "13286797514000000",
+               "date_last_used": "0",
+               "guid": "06db4af7-a098-44dc-96d2-31fd04e357e3",
+               "id": "36",
+               "name": "Alfred Alternatives: Top 10 Similar Application Launchers and File Search Utilities for Linux | AlternativeTo",
+               "type": "url",
+               "url": "https://alternativeto.net/software/alfred/?platform=linux"
+            }, {
+               "date_added": "13287187986000000",
+               "date_last_used": "0",
+               "guid": "5245bd24-c315-4d1f-ada1-634b6f4cd100",
+               "id": "37",
+               "name": "Moving to KDE Plasma from Mate - Support / Installation and Configuration - Parrot Community",
+               "type": "url",
+               "url": "https://community.parrotsec.org/t/moving-to-kde-plasma-from-mate/14646"
+            }, {
+               "date_added": "13283192606000000",
+               "date_last_used": "0",
+               "guid": "838778e1-1363-41dd-8d06-db0d18e5ecf0",
+               "id": "38",
+               "name": "Vim Cheat Sheet",
+               "type": "url",
+               "url": "https://vim.rtorr.com/"
+            }, {
+               "date_added": "13283618675000000",
+               "date_last_used": "0",
+               "guid": "37622032-96f0-484e-81b4-9c3211598dd5",
+               "id": "39",
+               "name": "WSA ON WINDOWS 11 - Google Tài liệu",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/16SD5_0hbH4ouZXik8fE6SYHoyd8dijX4RDx7QFPqoKo/edit?fbclid=IwAR2RzSEDXYfAQCQMRiqTEWXGHr8qkITRrt2MfKm0bqz7WxQDkuMPvuOtEl8"
+            }, {
+               "date_added": "13306350845000000",
+               "date_last_used": "0",
+               "guid": "42af473d-f889-4d66-bc2c-b33361f98beb",
+               "id": "40",
+               "name": "(6) [OC] Catppuccin: warm and colorful dark theme for Fish! : fishshell",
+               "type": "url",
+               "url": "https://www.reddit.com/r/fishshell/comments/rdq970/oc_catppuccin_warm_and_colorful_dark_theme_for/"
+            }, {
+               "date_added": "13314020924000000",
+               "date_last_used": "0",
+               "guid": "7351299c-7ed6-4f02-992c-f73fffb97719",
+               "id": "41",
+               "name": "\u003Cinput>: The Input (Form Input) element - HTML: HyperText Markup Language | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input"
+            }, {
+               "date_added": "13314473423000000",
+               "date_last_used": "0",
+               "guid": "96800cf1-4ac5-433d-aa75-2076ba0b340c",
+               "id": "42",
+               "name": "Thẻ ghi nhớ: SE _ Kì 2 _ Nwc203c | Quizlet",
+               "type": "url",
+               "url": "https://quizlet.com/vn/593393698/se-_-ki-2-_-nwc203c-flash-cards/"
+            }, {
+               "date_added": "13314473435000000",
+               "date_last_used": "0",
+               "guid": "c00be1c7-e630-46e9-a8c3-be7e9820ad5c",
+               "id": "43",
+               "name": "Thẻ ghi nhớ: NWC203c | Quizlet",
+               "type": "url",
+               "url": "https://quizlet.com/vn/751849832/nwc203c-flash-cards/"
+            }, {
+               "date_added": "13314535665000000",
+               "date_last_used": "0",
+               "guid": "de600755-4d1b-4ab8-bf01-6ca2877ae6c5",
+               "id": "44",
+               "name": "",
+               "type": "url",
+               "url": "https://www.csltraining.com/question-bank/transport-layer/"
+            }, {
+               "date_added": "13319112514000000",
+               "date_last_used": "0",
+               "guid": "c2facb32-41e0-449d-86e2-3d30026254dd",
+               "id": "45",
+               "name": "smspool",
+               "type": "url",
+               "url": "https://www.smspool.net/my/settings"
+            }, {
+               "date_added": "13325756098000000",
+               "date_last_used": "0",
+               "guid": "26455582-4bd9-46f6-aee5-7983c4f21a8b",
+               "id": "46",
+               "name": "One Leaf Download | Free Baidu Netdisk Downloader",
+               "type": "url",
+               "url": "https://oneleaf.icu/"
+            }, {
+               "date_added": "13324062352000000",
+               "date_last_used": "0",
+               "guid": "887b3441-e0ce-4a02-a8d8-bc470a10d182",
+               "id": "47",
+               "name": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
+               "type": "url",
+               "url": "https://www.nerdfonts.com/font-downloads"
+            }, {
+               "date_added": "13324796661000000",
+               "date_last_used": "0",
+               "guid": "7debce42-1ccf-447d-8cad-d29730521af5",
+               "id": "48",
+               "name": "Trees | common_curriculum",
+               "type": "url",
+               "url": "https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html"
+            }, {
+               "date_added": "13324799059000000",
+               "date_last_used": "0",
+               "guid": "df8f13f4-893a-4ff6-848f-2711f945948e",
+               "id": "49",
+               "name": "Stacks and Queues | common_curriculum",
+               "type": "url",
+               "url": "https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html"
+            }, {
+               "date_added": "13324799083000000",
+               "date_last_used": "0",
+               "guid": "420e4546-cf1c-4056-8ff4-7068e4fc1f09",
+               "id": "50",
+               "name": "Graphs | common_curriculum",
+               "type": "url",
+               "url": "https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html"
+            } ],
+            "date_added": "13330687168547876",
+            "date_last_used": "0",
+            "date_modified": "13330687168547876",
+            "guid": "65368042-c7ef-4b03-b155-994bd9c29932",
+            "id": "22",
+            "name": "Somethings",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13325343008000000",
+               "date_last_used": "0",
+               "guid": "c72f60f4-7d5d-44b9-a560-de30ed5765ce",
+               "id": "52",
+               "name": "iDope - the torrent search engine that doesn't track you.",
+               "type": "url",
+               "url": "https://idope.se/"
+            }, {
+               "date_added": "13325343015000000",
+               "date_last_used": "0",
+               "guid": "b0d7de01-e399-40a7-8a70-7884d5e0a032",
+               "id": "53",
+               "name": "BTDigg DHT Search Engine: Free Search Engine For Free Torrent Content",
+               "type": "url",
+               "url": "https://btdig.com/index.htm"
+            }, {
+               "date_added": "13325343050000000",
+               "date_last_used": "0",
+               "guid": "ab45569c-17a5-4ff2-a7a9-462f40ef375c",
+               "id": "54",
+               "name": "AIO Search - Search Torrents Sites",
+               "type": "url",
+               "url": "https://www.aiosearch.com/"
+            }, {
+               "date_added": "13325438157000000",
+               "date_last_used": "0",
+               "guid": "1a313684-c235-48e7-87fd-7af3e81a6132",
+               "id": "55",
+               "name": "lstkom78 :: Sukebei",
+               "type": "url",
+               "url": "https://sukebei.nyaa.si/user/lstkom78"
+            }, {
+               "date_added": "13325684050000000",
+               "date_last_used": "0",
+               "guid": "b1f1a841-e9b9-4d1b-bd24-427a5ffb8f93",
+               "id": "56",
+               "name": "Tổng hợp 75 trang web tìm kiếm bt (có sẵn trực tiếp)",
+               "type": "url",
+               "url": "https://www.feiyu01.com/14355.html"
+            } ],
+            "date_added": "13330687168550979",
+            "date_last_used": "0",
+            "date_modified": "13330687168550979",
+            "guid": "7d75a9bf-24eb-41a5-8610-bbbb4da49d61",
+            "id": "51",
+            "name": "Torrent",
+            "type": "folder"
+         }, {
+            "date_added": "13272703973000000",
+            "date_last_used": "13336076372183963",
+            "guid": "ac73ba1f-9a98-42e1-bac9-648ebdf1a22c",
+            "id": "57",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13319719987000000",
+            "date_last_used": "0",
+            "guid": "1467f520-b3b6-43e6-ab75-e1e1e199a176",
+            "id": "58",
+            "name": "Roadmap PDFs - roadmap.sh",
+            "type": "url",
+            "url": "https://roadmap.sh/pdfs"
+         }, {
+            "date_added": "13324224231000000",
+            "date_last_used": "13333482732401605",
+            "guid": "39d55db1-7785-446b-8cc0-4d7d9b5bfc93",
+            "id": "59",
+            "name": "Visualgo",
+            "type": "url",
+            "url": "https://visualgo.net/en"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "children": [  ],
+                  "date_added": "13330687168566704",
+                  "date_last_used": "0",
+                  "date_modified": "13330687168566704",
+                  "guid": "babbe85d-cbc9-455b-ac77-183e5b5a91b6",
+                  "id": "62",
+                  "name": "Other Bookmarks",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13300086939000000",
+                     "date_last_used": "0",
+                     "guid": "46b2c234-e3b4-4d14-9ed3-018625dc3eaf",
+                     "id": "64",
+                     "name": "Dragneol/myGit: my source code",
+                     "type": "url",
+                     "url": "https://github.com/Dragneol/myGit"
+                  }, {
+                     "date_added": "13300260028000000",
+                     "date_last_used": "0",
+                     "guid": "151c528e-4101-46db-800b-3163a5e7d2fd",
+                     "id": "65",
+                     "name": "Chuẩn IEEE 754/85",
+                     "type": "url",
+                     "url": "http://theza2.mobie.in/goc-hoc-tap/tin-hoc-dai-cuong/others/chuanIEEE754t85"
+                  } ],
+                  "date_added": "13330687168566727",
+                  "date_last_used": "0",
+                  "date_modified": "13330687168566727",
+                  "guid": "e96fe8ae-5b54-40c1-b7ff-f01d55444614",
+                  "id": "63",
+                  "name": "Synced Bookmarks",
+                  "type": "folder"
+               } ],
+               "date_added": "13330687168566683",
+               "date_last_used": "0",
+               "date_modified": "13330687168566683",
+               "guid": "1fc5dc2b-7881-449a-8c0f-c13fba52a9d3",
+               "id": "61",
+               "name": "Other favorites",
+               "type": "folder"
+            } ],
+            "date_added": "13330687168566628",
+            "date_last_used": "0",
+            "date_modified": "13330687168566628",
+            "guid": "94611565-8610-4b06-be9c-20dddc784430",
+            "id": "60",
+            "name": "Imported from Microsoft Edge Profile 1.",
+            "type": "folder"
+         } ],
+         "date_added": "13335858648412299",
+         "date_last_used": "0",
+         "date_modified": "13324224231000000",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13335858648412304",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13335858648412306",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgrW98DWumIAAAAAEgAaWEh4TS95KzdDaHZKNkREVGJVZVJyL0VMVHJuZ1dwRTJsbFVKckt6MkNPMXJJTjJGaTJ0RVRVNWhvbXd1bXVFUUN6S1JuWXA2NTR3Wmt1bjR1a0x5WERnPT0qGERSNzh3OFZVcjdyZlZnM29mZHhYYXc9PUgDEqgBCB8SowEKHGQrVEFqaDBqL2ZCa01GMmQ1RGhGcFl3cGFCZz0SJGI0MTkyZGNjLWU1NjAtNDA5Ny1hNDY2LWJmOTFlMDhlODI0NBgAIAAoADD58ZvZnDE48N2ZzZwxQPDdmc2cMUocSENTQWZYalVabHoyY1VaOGk3d2hkLzhDaEFZPVofIh3/bGd1SVRwOHUxLzFtbm1SZWVJaFlHTnc4TTJzPWUAAAAAEqgBCDwSowEKHFBZbU1yZGVtazdPK3ArWUhpdnlFTnYrWXhHdz0SJGMwNjY3Mjk3LTliMzQtNGM0OC05NzM2LTVhMTIyNDA1YzE0YhgAIAAoADDi7pvZnDE48N2ZzZwxQPDdmc2cMUocbzNJRkFobTZaMldhemFTcFlXRGZJUE5uNnRJPVofIh39bHp1ayt1YWh0MGowMk8zcXZ1ZWo4ZCsvcktJPWUAAAAAEqsBCDESpgEKHGkwYmZIZ3lIcE1lY0NWbGlvTmJZQm1BU2RUdz0SJDc3NzI1NTM4LTE1ZTYtNGRjNi05OWU4LTEzMDVhNTk3NmExNhgAIAAoADCg9JvZnDE48N2ZzZwxQPDdmc2cMUoccVJzWGM5T3hJWmxvK1pQSFpUWERLMU5Qa2JNPVoiIiD///+6TUsxeGxVYjBFYmRjSjErbGZSL1ppSit5VCs4PWUAAAAAEqgBCDsSowEKHEo5ZE5HdFluVlIzZm9Oc2dmRGhuSmZFVk05cz0SJGFiNmRmMDlhLTYyNWEtNGQxYi1iMDZjLTQzMTg2OGM1MDhhZBgAIAAoADD275vZnDE48N2ZzZwxQPDdmc2cMUocZ3NMbC9GUFJTSmsyNGNqWVlhWTB1dTdSTGYwPVofIh37T0pOb0JjWlA5M1Qrb2xsdFBWVE45bG5EVmFVPWUAAAAAEqcBCEASogEKHDRkRWQ4T0ZNTG5NcmdnNEFlaVdNd0JXRkhGZz0SJDZlYzljYmZlLWE4ZGYtNGJmNi1iOGVhLTAzZTA0ZjgxYmM3NxgAIAAoADDC75vZnDE48N2ZzZwxQPDdmc2cMUoceldESGJSVVVEKzBHVm9DeGtCNDhqV0pBVkJZPVoeIhwwczVPSGx3cGpaY3BhWHdtS2pDK1l2dHJZREE9ZV1Hj4MSqAEIHhKjAQocbElQMjVwUkVUM3dmQzlrb1lLWGxUdm9GR3k4PRIkZDM0NmZkNGYtZTAxMy00M2EzLThmODktZTlmNzQyYmMyMGM0GAAgACgAMOvxm9mcMTjw3ZnNnDFA8N2ZzZwxShw2a3RuZng3di8yMEVIa0JuYzIzckUvSFNiK1k9Wh8iHf5jQTdFbExrWGxmRmQwWjc2Q1RXTHo5UmNWY2s9ZQAAAAASpwEIQRKiAQocemtFNm9ZWjFaVktKc2hVSmx0Q0E5MFJHWXJnPRIkODgzZDliOTctOTRhYS00MmViLThmYjctNzBjM2VjZGFmMWI5GAAgACgAMNnvm9mcMTjw3ZnNnDFA8N2ZzZwxShwxTTBXdTI4d3hKZWNnVjdqdUNkYXJWbUQwaVE9Wh4iHG0wWDlwQ0syMWdBeUZ4T0lYTHlxT25kVVhwOD1lXGHUahKoAQg3EqMBChxoMm10dXFMM2Q2VEJFUTRxa3pMV0FJZFhiUk09EiQ4Y2MwNmQ5My04M2MyLTQ1MGItYTNlOS0yMzcwNGM4MTcyOGQYACAAKAAwy/Cb2ZwxOPDdmc2cMUDw3ZnNnDFKHE1KbElINVpEU3NrYVkwbXU0L2NycCtFYU92bz1aHyId7kYvUk9mekU1OGVmUkhXKzZsUHpiK1E1ajExdz1lAAAAABKoAQg6EqMBChxGVWFGcFAvcWxFSFI1YXFWbU5pVHBRcWZpNG89EiRkM2ViM2VkMC0xMzhlLTQ5NGYtYTVmZi03NWQ2ZjZiMWYwY2YYACAAKAAwz/Sb2ZwxOPDdmc2cMUDw3ZnNnDFKHGc2dVZiTkNSaTdIZCtTRC9EZUZDRXRNb09XUT1aHyId9nVzVnlIRFUwaVo5ZFdNR0xQcTVYNTVWSERnST1l+OSVUxKpAQgiEqQBChxvU2pWTS9COStVb2hLYjNPZDVPdzhENjlBYnM9EiQxNjAwZWIwNC04NjczLTQxZjEtODc3ZC00YWMxYjI2MWE4N2MYACAAKAAwqvKb2ZwxOPDdmc2cMUDw3ZnNnDFKHFJYbThNNXFHYWRvM2tEWDRtRkhZTkZTRUxvcz1aICIe/+00cS9NaEFHaXpsbmxqWHRMZmY2ZWkxdnhmZEU9ZQAAAAASqAEINhKjAQocaFNGbEpKTVBVOFJFK25GVS9ON3BQeC84VkVnPRIkMDVhZWJmYTMtZDQ3Mi00MTgzLWFkY2UtYTBhMDExOGRlODgyGAAgACgAMLvwm9mcMTjw3ZnNnDFA8N2ZzZwxShx4YzdBRjEzTlU0dE0xUXVHRnJoQVRPMUt4Qms9Wh8iHdxOSmJabGR3YkhqUU54NXpuWDNnbzFicThDYXM9ZQAAAAASqgEIMBKlAQoccmppbWlPUmhBTC9mcloreEdKQ0xyR0tydEE0PRIkZmY5ZDAwYTgtMDZkMi00MThlLWI3NTUtMzY5YTI3MGM5YjgwGAAgACgAMI/0m9mcMTjw3ZnNnDFA8N2ZzZwxShxBZy9HbWMxM05FUXNhbkVTbllIbTVBYVN4ejA9WiEiH////3U0Z2I5RmlldzlqS0RNS1dkZE8xRk9jVys1VT1lAAAAABKpAQgVEqQBChxpY2JrekdGeHlNTzFOaEpOMGtIcWtsVjVoczA9EiQ1ZTg1YmY0OS1mOGJjLTQxNDAtYjNiYS02ZGNjYWJmMTU0MDYYACAAKAAw0e6b2ZwxOPDdmc2cMUDw3ZnNnDFKHHp6OXZsZ01PNTRQU01IVEpTWUZLa3VJeU9END1aICIe//1jVERXbSs0WUc1clhrTWxQUy8rUCtXTis5S2s9ZSusTOMSpwEIPRKiAQocc3JlUWdvVnRQaC8ybll5RTlFMVA2K0hMNHcwPRIkMGUyNjIxOTYtODJlOS00ZWI4LWJlMzYtYjE1Yjg5NDRjNTQxGAAgACgAMPPum9mcMTjw3ZnNnDFA8N2ZzZwxShx0TWk1SVBHdHpRWEJkc25maVdPQU1ibDlIWXM9Wh4iHDRRSjgzRVdlRXZ5M3QwdVYra1RsUTZGZ29RUT1lAAAAABKoAQgOEqMBChw5TjY0R3h1ajF1NGhmOXZzRTVxMHRnTEx5WTQ9EiQxYzIyMTZiOC01MGMxLTRjNWMtOTc2ZS1kZDY5NjFmMTMyNTkYACAAKAAw0O2b2ZwxOPDdmc2cMUDw3ZnNnDFKHEFYWk5aT042VVc1YTVKWGxLUERFOHFyV2JZWT1aHyId/nhxV0FNZWwyU3FVaWVIdXhsditPcHUwSU5xTT1lXUePgxKoAQgzEqMBChw2VkYreHJwYjRKTDBjNXdCdzY4T05DSGt2K0k9EiRlYTU4ZjFlYS1iODk4LTRkMWEtYTYzYi03OTk3YzI4NTc1ODYYACAAKAAwhPCb2ZwxOPDdmc2cMUDw3ZnNnDFKHHFpa0VsNjl2MlRnRGpkR0VUc01GcVlvQ3hjST1aHyId2mQwT245ZjVvK2djdGlZK2o1Y0x1RUtqQXUvdz1lAAAAABKoAQg4EqMBChxRcnFtcFJCbXZqRm9KdjdnL0FTMXVvWWdQVzQ9EiQ4NTkyZWQwOC1jMDQ5LTQyOWQtYjVkNS1hYjdiODNiNGMxODUYACAAKAAw2vCb2ZwxOPDdmc2cMUDw3ZnNnDFKHG5aR09wUDVhWGpzSTVabFp1amNvaXY4WEQ2UT1aHyId929hb1ZQaElhblpEMytJOUJrWVh3c0l1VVRyUT1lAAAAABKoAQgdEqMBChwvcWdoODk2QkFTMFVXNVJaOWExdzA5QUMwVEk9EiQ4ODc0YThjMy03NjMyLTQ2ODItOWZlMS00OTI3ODZjMzlmODkYACAAKAAw2PGb2ZwxOPDdmc2cMUDw3ZnNnDFKHHVPaVJXc1dxaXFLNFk2Z25GOEV1cHUxUjdhUT1aHyId/W1YcG5VNGYrWXJiQmJkaWVrQVM3Mm4yeU0rND1l+OSVUxKqAQgtEqUBChxxdHFBQTRjd3NqM1pubEczYUJ0NlMrSXpHMzQ9EiQ0NzI2YWFmYy05ZmFkLTQ0ZTUtOGJkZC1kYWJlZjgxOGQxOTEYACAAKAAw3fOb2ZwxOPDdmc2cMUDw3ZnNnDFKHEs5WXhvTTRSaklzNXkzYTE0UTlrZkFZeDhJST1aISIf///9MnJPUjhvTDdmSEdjemZjSXNrWk1lWW5tUXBrPWWNxbqlEqoBCCsSpQEKHE04TFNWdnJkNXVWNHRINXM3WmZOWXJDdmVDcz0SJDI0YmQ2ODZmLWVhMGYtNDJlZi05Y2I1LTJjMDM5YTFjYzhmNBgAIAAoADDB85vZnDE48N2ZzZwxQPDdmc2cMUocdy9BUDNkUmVqTHVnTzdJR0x4aWkwaFdNamFVPVohIh////RhNUNVU1FCaW1Gc1ROZ0JkdFdKdHFIYnNZQnM9Zcop54QSqAEIGBKjAQocMC9idHQ0QjZQTzJhVEE0OUt5WXRxRlhtTGxvPRIkNzNmNTVmMTYtYjlhNC00ZWE5LThhNGUtODhkZmYzNTQ2NWI0GAAgACgAMIfxm9mcMTjw3ZnNnDFA8N2ZzZwxShwwYWNxdmwvZnFSZkZRM1VkYnY0QkNNQWVvZDQ9Wh8iHas0OGllQVI0ZElqMlZLVS9NRzVnV1lqbGFMODg9ZQAAAAASqgEILxKlAQocNEF0UmpHOVhZZzdkZDJkYXNUS2twMEQveURNPRIkZDc5ZWNjNGEtOTUxZi00N2FjLWJiNzEtN2U5ZTk5YzIzM2MxGAAgACgAMP3zm9mcMTjw3ZnNnDFA8N2ZzZwxShwrSE9WYld5UGE3bEU1MVB5Rk5TT0k5ZDB6SVU9WiEiH////2FWUDB4RHJnTjFtSTRlUS9COG1NWVRscWcyMD1lGdF8oxKpAQhDEqQBChw0ZytmZ0k4bm91MDhKZXhZbXN3c1VNcU4xOFU9EiRmZmMwY2RmMi0xYzg2LTRmZDItODIxZC0yYjljNDE4N2I5Y2EYACADKAMw67ugq50xOOiQkaudMUDpqKCrnTFKHC9CVDcwSlhlTGNpQ0ZycUc1bCszY3JldWZsTT1aICIe//5SWUtxSUpTNktOYnp4eWtNa2kzRzE1alBJazQ9ZdRM6NASqgEIKRKlAQocYnE1TXEzcFZOTGpBQnR5RjBkTEZZWldta05rPRIkYWM1MWU0ODUtMjAwNi00MDEwLWE1MTgtY2VlYjlhOWUwYzA5GAAgACgAMKLzm9mcMTjw3ZnNnDFA8N2ZzZwxShxta1k4aDF4SzBnTmo4VUZWeEx6OE1Da0ltT1E9WiEiH///0UlDcGxUdHlkbVY2TXQxSVFvMkc1Q0ZPSG1vRT1lbaCf9RKDAQgDEn8KHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDk0NmMxZTVhLWIxYjgtNGY3Ny05ZDM5LTE3ZmY4M2Q1YjhlMhgAIAAoADABOInZm9mcMUCJ2ZvZnDFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqkBCCcSpAEKHE5zczZOTmRtcysvT2VnbFk5WUVFZkphbGJCMD0SJDA2YzQ0OWY4LWQzOWQtNDJhNi1hYjFhLWFhOGM3MTdkNDFiMxgAIAAoADCB85vZnDE48N2ZzZwxQPDdmc2cMUocOVM1WU1aWXJVNUtnTkZNeWJZWXBYYUlXNG5BPVogIh7//0RleGFxMTJreDVxeDcyMVJaaVBpSGU5Yy8rND1l1UdNNBKpAQglEqQBChxTVmpNeG1nRnhaTHlzd01menBRNGhVSEJzOVU9EiQ2ODVmODMwNi0xYThjLTRkMjgtYTc5Mi05YzFmMDA4YmNkZGQYACAAKAAw3fKb2ZwxOPDdmc2cMUDw3ZnNnDFKHG5ZSkNjQUZvUXRHbEo0WnE3NlJGM0RralREUT1aICIe//1MMk5OQk1pMS9BTHd6Sk1JMXM3Qk5jNXhTZ1k9ZQAAAAASqQEIJhKkAQocYWNDUEM1d1M4bWJndDI1eHFWWSs1UDUyaCt3PRIkNjdmMjIyOTUtNTUzNi00NDU3LWI5OGYtNzZiMGM2MDc4ODVlGAAgACgAMO7ym9mcMTjw3ZnNnDFA8N2ZzZwxShxQY3I5YU10YWJ3blp3M2ZHR2RmYTNWdmtUR0E9WiAiHv/+V3NxYjlsNkJ1Q0lQMG1wb0ZXTnExQnQ2ZHk0PWUAAAAAEqkBCBMSpAEKHDBRN0RkS3NkTlNsemk4YzQreUI5a1dMcjQ2az0SJDRmNTFhM2EyLTFhOTYtNDg1OS04ZTg3LTlmM2QxOTMzNzYxORgAIAAoADCw7pvZnDE48N2ZzZwxQPDdmc2cMUocMG1lK3RXUVdaRVhnSDZDaTlOM21kSzA4djU0PVogIh7/9lZkaWx3YllMSnlwalUyRkI3NFk5WFN1Y3phND1laRsi8xKpAQggEqQBChxpRjJlTFFGR0hSVFgzZUFBOHFpZHZhTUxnUGc9EiQyZjUyNDY1MC0zZGVlLTQzM2UtODc3Ny0zZWQyODE3NWEzNDgYACAAKAAwh/Kb2ZwxOPDdmc2cMUDw3ZnNnDFKHEhXZU52ay83SUd4d0VyRXkxMVVqS2tFRFZCdz1aICIe/7ZsOXc2ZEZTUjRKdG4vYXNrV0N5SEdNUEZtY3c9ZQAAAAASqQEIJBKkAQocRDE4KzRhYzM4UlE0RzJ3TFY5Wk93eFV6dVhFPRIkZmUwMDJlNGItNzhhMy00NzY4LThkYzktNmVlMzJiYjg5NTczGAAgACgAMM7ym9mcMTjw3ZnNnDFA8N2ZzZwxShxVelArRlVabFNvVDRqUVR3aWNnWm9UbS9KWEU9WiAiHv/7MGliVEt3TTQyTE90cjNRK1RrYkF3dk5ob3Q0PWUAAAAAEqgBCBkSowEKHHdQSnJJZ295U2FIRXdIeUlEQ1NzaEV6OHYzaz0SJDU3M2I1NTg3LWI4Y2QtNDJjNS1iYzY5LTZiYzMzZjNkZTA5YxgAIAAoADCW8ZvZnDE48N2ZzZwxQPDdmc2cMUocNjlxZDVvOE9aajl5ZGpjQmVvZjZTSGZFZzBBPVofIh3Vc2w0VWdoRG5FN2JUWEV5VnNzcVNOR1dZT2VzPWUAAAAAEqgBCAoSowEKHG1sNnM3U1hNRGxuL1RWOHZGTjdmTnp3TEhCYz0SJGJkNDhlMTc5LWU1ZTctNGU2Zi1iMGVlLTk5YjQwODA0MTliYRgAIAAoADCK7ZvZnDE48N2ZzZwxQPDdmc2cMUoceVhGUlVjS0ZtRTlQdFFiamNPVmVEbnNSZWU0PVofIh3tMVppTHZXY29IL0N5OEFieU0zTUwwTUFkVTQwPWXUTOjQEqgBCDUSowEKHGZxMHgyOGQyVWNxOHlPb1U1dVkzZDUzdGJkdz0SJGNiZmY1M2IwLTUxMWMtNDRiNC1iZjc3LTRiNTFkNTljZWE5ORgAIAAoADCp8JvZnDE48N2ZzZwxQPDdmc2cMUocQThFaGJaakxTQlBmaFBXcGtjNUFnUHVxbFFJPVofIh24bVc4RkRic2tFb3VCZ1hQR05IOGNMdUJTS1hBPWUAAAAAEqoBCC4SpQEKHHFXcHhjd21mY0FlZ0VIRjdlQVI1SnRxelplND0SJGViYWI1MzE1LWM2NmYtNDg4Yy05ZjRkLTBkYzRjMDVmZDdhOBgAIAAoADDu85vZnDE48N2ZzZwxQPDdmc2cMUocckhpVU1kMkdZQWk0VWViaTJDbEtzRktVTDVFPVohIh////5YTFFFOGh2VzhvOWd5bjlMWkpLT0kvMFlCM009ZQAAAAASqAEIGhKjAQocQ240c1pwS2VDdDQzLzd5T0ZTMytmeThDZkhnPRIkN2E3ZDY1NTctMmNmNC00OWE5LTgyZmMtNjNjY2VlNzE2MDczGAAgACgAMKTxm9mcMTjw3ZnNnDFA8N2ZzZwxShx1enJic3F6MEpUME5iSnFQeW9lQUcvT25zODA9Wh8iHep6SnYrY2cvTFVoVGJIeUEwY1d0Mlo3OTBMdUk9ZQAAAAASpwEIPhKiAQocWjMzOFc0aGtxYnk0RW81My9yZlNFblZkNlZnPRIkN2FhYmEyZjgtY2M5Zi00ODQwLTk0NzQtZGE0ZjA2YzBhMWE1GAAgACgAMITvm9mcMTjw3ZnNnDFA8N2ZzZwxShw5ZGpkdlpTaWJvU2RjdjQrNHFJR2h5WHFKS3M9Wh4iHDk1NXlXWDZmT3BhT1c2aWliM0pOSFBEU1hHST1lAAAAABKpAQgREqQBChxUWU1QV0s5SHBaTzBPK1hSaDBBekVCSmUzRjQ9EiRiYWE0ODBlNi0zZjlmLTQ5YjAtYjc1MC04Nzc4MGE1OTUyNTMYACAAKAAwje6b2ZwxOPDdmc2cMUDw3ZnNnDFKHDIxUEM3VjZzQmx1TjhvVTdFMkRmc1ZOSHQrZz1aICIe/9hKZ3gyalN0VHZwb1RlNmsyRW1PTmVNdm94bUU9Zfmb+BUSqQEIEhKkAQoccTI1cUVXT1h5SFFWM2F0YmkvZ1JkeDJYRVRVPRIkZGE0ZjBjZjUtYWY1ZS00OTNkLTg2NzAtMjdiODYyZjZmOWIwGAAgACgAMJ7um9mcMTjw3ZnNnDFA8N2ZzZwxShxoWUo3dFFxYm4vRXhhSGZ3KzU0OE94UnpLeFE9WiAiHv/sb0lHNEIwRktvdk42dFRybkhCSDQrOExQazBVPWUAAAAAEqgBCA8SowEKHHpnK2JaUVMydU5JVkRKaHhKVFBBbDcwa2F4TT0SJGIyODBiMjcyLWQ5MDctNDBmMS1hOTgzLTdmNzlhYWE0NzViYxgAIAAoADDj7ZvZnDE48N2ZzZwxQPDdmc2cMUocbWY3MEtQdTdFYjVJeXg2UXBqaDlmN2E2STBZPVofIh3/Yzg4MSs4TDk5L2hSKzUwbkR0YkJSc0ZTR0Q0PWXUTOjQEqkBCBASpAEKHGZVclRWSzMxRnl1WEZycWJKakFZdGtSeUpScz0SJDA1YjM4YWE4LWQ0YjgtNDhlNS1hNWM4LTYxOWQ4NGY5NjJkZhgAIAAoADD07ZvZnDE48N2ZzZwxQPDdmc2cMUocbHVkR0kxeFAyZFFiTlkwZWJIWnQ2OGZSRkM0PVogIh7/sVJWM2FtVWVib1RLWjhRQWN2cTY5N0VKd1BIRT1lAAAAABKoAQgJEqMBChxxem94QmdnaUwzWU5reGg1ZEV4bXRQNGNGVVE9EiQ2OTQ4ZDI4YS1lYmU1LTQ4MTUtYjI4Zi01YWUxNWNmY2E0MTYYACAAKAAw+Oyb2ZwxOPDdmc2cMUDw3ZnNnDFKHGptR2lIY282L3hYTUZ1MmUvd2ZiSzhyZFVvZz1aHyId2mZLMEJPY1FveFIrVE1Ka3VLeUlpcXJOTlI5UT1lAAAAABKrAQgyEqYBChxDemx4ZW0rQWljNjFRU2dMY2w2S3hZUDFFMjQ9EiQyMzY3MTA5Yi01ZGRiLTRiM2ItYmQ5NC1hMTExOWQ4NDM4ZmUYACAAKAAwsfSb2ZwxOPDdmc2cMUDw3ZnNnDFKHGg0dmkxN1JGK1k4NmJtajFNZTkyN1pVMUExUT1aIiIg////3WpEY3lpVlg4NmYrRFFpRTg2WEhmRmRzajc2dz1lAAAAABKoAQgcEqMBChxhRk9QbE85cml6WFQ3cUp1eXRpQUc2OU9BZkk9EiQ1MGQ2NGQ3Zi1jZmFkLTRiMTctYmMxNy0wM2MzNDQ0MTQwNDgYACAAKAAwx/Gb2ZwxOPDdmc2cMUDw3ZnNnDFKHDdVK0JBUXZWZFUwN1U4R2hYUmU5NCtRU1dabz1aHyId+m03QUxseGRlVnA2ekhqRS9TNkdBMnlTMFFCdz1lGdF8oxKpAQghEqQBChxiaWFoOXR0WXA3elR4aE0wZEo0djhOQStKMWs9EiQ5N2Y5ODNiMC0yNGQxLTQwMzQtODc2ZC1lMTE3ZWMyOGY3MDUYACAAKAAwmPKb2ZwxOPDdmc2cMUDw3ZnNnDFKHFBYUUlxby81eXJlQjc2cERkK2srWDUvY3Voaz1aICIe/9s1T3JqUEN4UmJoMmdTQ2ZtdG1zL1JJSVI2TVk9ZerwjOsSqAEIGxKjAQoceDQ0bDBQTTRzL2FWZEE2TFVDMXdzTUo3dmFvPRIkMzA0Nzc4Y2QtMTI3OC00NzQwLWI0YmYtNWJiNWEzZmMwMjlhGAAgACgAMLTxm9mcMTjw3ZnNnDFA8N2ZzZwxShwvZXZ5R1V5YXlTVXNBOWt5Z29oakpKL2tMTjQ9Wh8iHfVJR3N4bjVSNnFXcUpHTE81dnBKelAvOWRacUE9ZQAAAAASpwEIBxKiAQocZ2o3M0d6NUZjVWk1UEg0a3A5QVBoTXlOaEpFPRIkZjMwMTQ2NWQtYzUyZi00MDA1LTgxNjgtOWU1OWNjNjAxZjc0GAAgACgAMNrsm9mcMTjw3ZnNnDFA8N2ZzZwxShxFTE53YVlSOTdTVFVaSWdzRzlyMWtYSXV3VDA9Wh4iHGtHVkVINEhTUFNsODBBZ0FjeUZSYlpsOVdpRT1lAAAAABKqAQgoEqUBChxIWjhpMVk2TWZUcnpxWVZLMVFJcXl0OWNvKzA9EiQ0MGE4YTc2Yy1kMzRiLTRiMzgtYTk4ZC1jMjQyZDljNzcxMjUYACAAKAAwkfOb2ZwxOPDdmc2cMUDw3ZnNnDFKHGg5ME5DbnluT1RKNDlvcHFHR2JqaUhGeEI4WT1aISIf//+iN05wanEvcHdoYVNyeDkza3FZR3ZTQjdEUHFrPWUcsmhNEqgBCA0SowEKHDhQd3NnSUhuVUtmQ1RHMWx2MVJNbHIrL0pNWT0SJGY1NGEzNTMzLTU5ZTEtNDI5ZS04NTUxLWNlZWMyYmQzMTIxMRgAIAAoADC+7ZvZnDE48N2ZzZwxQPDdmc2cMUoccm9waWdZSVFDcngyQ0hWTGwxTEVubEVhUnE0PVofIh39Qm1YUkwxbnJvdHVMZWJxNys1Nk5HVjJqek5FPWXUTOjQEqgBCAwSowEKHEdiWkFpK3dBUnhJblo5cnYwaUhvSFlaYnhNQT0SJGY4YmY3MzQzLTgxOTEtNGU2Yy04MDFkLWEzYTNjYzRkNWQwORgAIAAoADCt7ZvZnDE48N2ZzZwxQPDdmc2cMUoccCtPa3Z3RDF4TjFYSTVnaTN3cnVzWnhZcWFRPVofIh37ZktpL1hONWxmVy9Bb3VTbkxVNWNYb0NNRHl3PWX5m/gVEqcBCAUSogEKHHpOdHNsNzNmcGppNzZCNkVDMllzRWt0NmJvST0SJDY2ODRjZDg0LWNhZDgtNDliZC04ZjU1LTZlMTkyZDg5OGE5NhgAIAIoAjDylKfznDE48N2ZzZwxQJ6Sp/OcMUocRUJyL2hKMVlLN3YrTk9pdTcvbFRzcjUvaEVrPVoeIhxneXlLU3R2OEM1VnVhbWRXaXVkTzMycFFjcWs9ZcXPkAESpwEIPxKiAQocNncxZGpoQjdBSWNTbWxWeDdHKzZ2RXNNU3RRPRIkNWQyODk3ZDktZTIyOS00NjM2LWI0OWMtZTlmYjY5YmUxNDE0GAAgACgAMJXvm9mcMTjw3ZnNnDFA8N2ZzZwxShxNQkNjQ3REODR4eHFYdW5QbHVOUC9ocVU2Y0k9Wh4iHHdNWkdxQmllUnpIakgxNk1BbkUyRzZscnp1QT1lAAAAABKoAQgIEqMBChxoOE16UWI1Ym9jTGJCM0ZENEs3cWc0cFdLa2M9EiQ5NTJiYWQyYi03MGNlLTQ2OGMtYTk1ZS1hYjA2NGJiNjFmYzMYACAAKAAw6+yb2ZwxOPDdmc2cMUDw3ZnNnDFKHFVNUW9WVXkyNXdWZ1pRdmlxTUJ1QmE0V2xGTT1aHyIdtWVqcFJDcVgrUUk4UVJIc2dNdnhOTUxUeHl3bz1lAAAAABKqAQgsEqUBChxQWHRpd0NIT1RQbS9ueEU5ODU5TWFtRlNnWVk9EiRmNWQxZjNiOS0yZjY1LTRjZDgtOGI0OC04NjY1YmVkZDFhZWQYACAAKAAwz/Ob2ZwxOPDdmc2cMUDw3ZnNnDFKHDFGaWp4YjZWWUdVQzk2bXQ1WGRMYVBPWFJrWT1aISIf///6dVFKVGVrNEp3UjhBZ1NJWTNZeCsvZVBQWXZzPWWd1SklEqgBCAsSowEKHEh3cXRaTTJ2NS91K25zUTgzQ1dFR3h3RmlMdz0SJDFlNGI4MDJmLTFjNzgtNDRkYy05YmNiLWM4NTM0MjEwMTZjORgAIAAoADCd7ZvZnDE48N2ZzZwxQPDdmc2cMUocckcxMldkbnFkcllGUTJCalFHL1hYWUEzOG1zPVofIh32eWdlTm55b3JFTW5Ba2ZJcHdlV1ZMWldDVDJ3PWXUTOjQEqcBCAYSogEKHFdmQzFoNS9oTXVyUjdmRjVPSXBYNUxnY3gxND0SJDY1MGFlNThjLWFmYzYtNDkwNC04N2RhLWM4ZmEwMDAyMDE2MxgAIAAoADDL7JvZnDE48N2ZzZwxQPDdmc2cMUocODBGQ1hVT1RhMHkwZnh0WTNmLy80TFBWK3BNPVoeIhxpL0RxaEV5R1U4ZlJHNE96cG9rSVFCaHNWZmc9ZQAAAAASpwEIFxKiAQocbno1SHpSdHZVUElwQ3h0dkpocDR2TDdsK1NRPRIkZjJhNGYyMDgtOWYxMS00NDY4LTkwNDMtYjYzMmRlNTQyYTk5GAAgACgAMPbwm9mcMTjw3ZnNnDFA8N2ZzZwxShw0ZVMvTEVOdlBsZXdLZXd6QVFPb1pOaUtzYlE9Wh4iHFZWQmdGblFZb0lJWkdKdk04TUNWMFBKZEdyaz1lAAAAABKoAQg5EqMBChxWSUdZS1I4QUZlY0M5a2FlTnVtODk0QlB0SUk9EiQ2NmFmYmRjMy0zYWYzLTQyNTYtYmVjOS1jZmIyZDNkMzdjOGQYACACKAIw7ZSn85wxOPDdmc2cMUCmkqfznDFKHEp2bnRGWnh1M0lPK1IrcWRib09MV1lQRnhMRT1aHyId7XFFZG1Hc3FoK0U2TUoxQjIyV0dLQk00aXpjTT1lOPk5MxKpAQgUEqQBChw1azFaejd0MS9IaFo0SDcwdkNKS2VDZTE3Smc9EiRhNTQyMTQ4Zi04NTM4LTQ4YzYtOWNkMi1hYjA3ZjQ0ZGI1MzkYACAAKAAwwO6b2ZwxOPDdmc2cMUDw3ZnNnDFKHDR6dzhnTU9vRDEzYzR6SVhVZlZTeU83QkhDQT1aICIe//tHTGRjVVFYbm1zVDBldEdGUXNqcE1XU0dGRGs9ZQAAAAASqAEIFhKjAQoceTRhTlppT3gwU2RaeGF2S3hHYUJObTVTOUJjPRIkZGU2YTBmMTAtNWM4OC00ZjVhLTllNjMtMzc3ODQyZjgxYWRiGAAgACgAMOjwm9mcMTjw3ZnNnDFA8N2ZzZwxShxQbUptYU0yb2xyYnJEa2ZlMkd2UUpjc3kxd009Wh8iHbRITUJFUXpyZC9HZEFOSitZSmx1ZHhSR015czA9ZQAAAAASqgEIKhKlAQocY1hNWk1SMnhkNGx4VGRpajQ1SGM2cmphdjJrPRIkZDc5ZDAwNTYtMmEwNi00Y2IxLWIzNDUtMjQwMmY4ZTMzYjNkGAAgACgAMLHzm9mcMTjw3ZnNnDFA8N2ZzZwxShx5VXA1ajdMRWNFblRPYlRFcUo1QXc2WE9NNlk9WiEiH///6CtOTml1bmE3Rit5ODcxQmFxWVBjYjBZVFhGST1lyinnhBKnAQg0EqIBChxtZFR1blBNOWgxQlB0alhXMmdhNFpPZTZYbUk9EiRmYWM5ZTM3My1jN2U2LTQwYzktODJlNi02YTRkYTY3ZDZjMjEYACAAKAAwm/Cb2ZwxOPDdmc2cMUDw3ZnNnDFKHFRMWnpER0dYKzl0U25EOHZ0T1MvQVBQUUF4TT1aHiIccGhrcFM5Y1ZPbldhRFVWSVBtdStxNTM5TFRnPWUAAAAAEqkBCCMSpAEKHHNGQ0VpN0lhOTJSRHJlSVZBTWM4QStmNDByND0SJDM1MjliMmNhLWI0OTAtNDcyMC05NzhmLTIyYjgzY2ZiN2M1NRgAIAAoADC88pvZnDE48N2ZzZwxQPDdmc2cMUocbXgzbklSUWRCVkwxUTRSeFhLenV6UThsVWxVPVogIh7/9lF4RUxKOHpzU2hXOUlucFZXNlZ6dWpYQ2ZJYz1lhi0MYBKDAQgCEn8KHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGY5YzBhZWI3LTFkMDYtNDYwOC04NjhmLTJkMDIyMDkwMWMzOBgAIAAoADABOInZm9mcMUCJ2ZvZnDFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEoMBCAESfwoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZThhYmFlOWYtYzZjMy00NzEzLWI4OTktZTJhZDQyMDVkNmQyGAAgACgAMAE4idmb2ZwxQInZm9mcMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}

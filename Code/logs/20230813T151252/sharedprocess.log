@@ -1,0 +1,19 @@
+2023-08-13 15:12:58.970 [info] Getting Manifest... github.copilot-chat
+2023-08-13 15:12:58.972 [info] Getting Manifest... pkief.material-product-icons
+2023-08-13 15:12:59.148 [info] Installing extension: github.copilot-chat
+2023-08-13 15:12:59.167 [info] Installing extension: pkief.material-product-icons
+2023-08-13 15:13:00.293 [warning] Extension signature verification failed with error 'UnknownError': pkief.material-product-icons
+2023-08-13 15:13:00.320 [info] Extracted extension to file:///home/hydra7/.vscode/extensions/pkief.material-product-icons-1.6.0: pkief.material-product-icons
+2023-08-13 15:13:00.324 [info] Renamed to /home/hydra7/.vscode/extensions/pkief.material-product-icons-1.6.0
+2023-08-13 15:13:00.325 [info] Extracting extension completed. pkief.material-product-icons
+2023-08-13 15:13:00.339 [info] Extension installed successfully: pkief.material-product-icons
+2023-08-13 15:13:00.343 [info] Marked extension as uninstalled pkief.material-product-icons-1.5.0
+2023-08-13 15:13:00.579 [warning] Extension signature verification failed with error 'UnknownError': github.copilot-chat
+2023-08-13 15:13:00.771 [info] Extracted extension to file:///home/hydra7/.vscode/extensions/github.copilot-chat-0.7.2023081101: github.copilot-chat
+2023-08-13 15:13:00.777 [info] Renamed to /home/hydra7/.vscode/extensions/github.copilot-chat-0.7.2023081101
+2023-08-13 15:13:00.779 [info] Extracting extension completed. github.copilot-chat
+2023-08-13 15:13:00.789 [info] Extension installed successfully: github.copilot-chat
+2023-08-13 15:13:00.795 [info] Marked extension as uninstalled github.copilot-chat-0.7.2023080901
+2023-08-13 15:13:22.011 [info] Uninstalling extension from the profile: zenclabs.previewjs@1.24.2 vscode-userdata:/home/hydra7/.vscode/extensions/extensions.json
+2023-08-13 15:13:22.147 [info] Marked extension as uninstalled zenclabs.previewjs-1.24.2
+2023-08-13 15:13:22.579 [info] Successfully uninstalled extension from the profile zenclabs.previewjs@1.24.2 vscode-userdata:/home/hydra7/.vscode/extensions/extensions.json

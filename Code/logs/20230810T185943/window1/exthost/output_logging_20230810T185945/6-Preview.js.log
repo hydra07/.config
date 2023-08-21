@@ -1,0 +1,44 @@
+$ node --version
+v20.5.0
+✅ Detected compatible NodeJS version
+🚀 Starting Preview.js daemon...
+Streaming daemon logs to: /home/hydra7/.vscode/extensions/zenclabs.previewjs-1.24.2/dist/daemon.log
+[ready] Preview.js daemon server is now running at http://localhost:9315
+[11:55:24.465] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/stylua.toml
+[11:55:25.412] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/init.lua
+[11:55:25.902] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/.neoconf.json
+[11:55:26.347] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/stylua.toml
+[11:55:27.664] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/.neoconf.json
+[11:55:29.093] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/plugins/example.lua
+[11:55:38.398] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/.neoconf.json
+[11:55:41.177] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/lazy.lua
+[11:55:42.073] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/options.lua
+[11:55:42.604] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/lazy.lua
+[11:55:43.526] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/autocmds.lua
+[11:55:43.951] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/keymaps.lua
+[11:55:44.283] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/lazy.lua
+[11:55:44.744] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/options.lua
+[11:55:45.578] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/keymaps.lua
+[11:55:47.783] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/autocmds.lua
+[11:55:48.201] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/keymaps.lua
+[11:55:48.660] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/lazy.lua
+[11:56:15.303] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/init.lua
+[11:56:19.376] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/lazy.lua
+[11:56:22.780] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/init.lua
+[11:56:28.841] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/.neoconf.json
+[11:56:29.492] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/config/options.lua
+[11:57:52.213] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/hydra7/config/options.lua
+[11:58:07.615] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/init.lua
+[12:23:55.713] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/colorscheme.lua
+[12:25:19.495] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/init.lua
+[12:54:23.431] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/plugins/colorscheme.lua
+[12:54:44.976] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/plugins/lsp/mason.lua
+[12:56:52.586] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/plugins/neotree.lua
+[12:59:30.151] INFO (1959342): No workspace root detected from /home/hydra7/.config/nvim/lua/plugins/editor.lua
+Error: connect ECONNREFUSED 127.0.0.1:9315
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+Preview.js daemon could not be started.
+
+⚠️ Preview.js daemon was restarted ⚠️
+
+[ready] Preview.js daemon server is now running at http://localhost:9315

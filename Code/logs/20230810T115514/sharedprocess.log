@@ -1,0 +1,9 @@
+2023-08-10 11:55:21.447 [info] Getting Manifest... ms-python.vscode-pylance
+2023-08-10 11:55:21.598 [info] Installing extension: ms-python.vscode-pylance
+2023-08-10 11:55:22.863 [info] Getting Manifest... ms-python.python
+2023-08-10 11:55:24.117 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-08-10 11:55:28.028 [info] Extracted extension to file:///home/hydra7/.vscode/extensions/ms-python.vscode-pylance-2023.8.20: ms-python.vscode-pylance
+2023-08-10 11:55:28.039 [info] Renamed to /home/hydra7/.vscode/extensions/ms-python.vscode-pylance-2023.8.20
+2023-08-10 11:55:28.042 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-08-10 11:55:28.055 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-08-10 11:55:28.062 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.8.10

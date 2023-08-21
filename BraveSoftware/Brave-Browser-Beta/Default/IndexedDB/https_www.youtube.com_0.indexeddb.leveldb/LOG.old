@@ -1,0 +1,19 @@
+2023/08/20-21:56:41.132 e70 Reusing MANIFEST /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/20-21:56:41.132 e70 Recovering log #169
+2023/08/20-21:56:41.144 e70 Reusing old log /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000169.log 
+2023/08/20-21:56:56.947 e71 Level-0 table #174: started
+2023/08/20-21:56:56.965 e71 Level-0 table #174: 1511422 bytes OK
+2023/08/20-21:56:56.967 e71 Delete type=0 #169
+2023/08/20-21:57:43.933 e71 Compacting 1@1 + 1@2 files
+2023/08/20-21:57:43.942 e71 Generated table #175@1: 788 keys, 63259 bytes
+2023/08/20-21:57:43.942 e71 Compacted 1@1 + 1@2 files => 63259 bytes
+2023/08/20-21:57:43.945 e71 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/20-21:57:43.945 e71 Delete type=2 #171
+2023/08/20-21:57:43.945 e71 Delete type=2 #174
+2023/08/20-23:03:32.235 e71 Level-0 table #177: started
+2023/08/20-23:03:32.248 e71 Level-0 table #177: 1334688 bytes OK
+2023/08/20-23:03:32.251 e71 Delete type=0 #173
+2023/08/20-23:09:55.202 e7c Compacting 1@1 + 1@2 files
+2023/08/20-23:09:55.210 e7c Generated table #178@1: 900 keys, 73525 bytes
+2023/08/20-23:09:55.210 e7c Compacted 1@1 + 1@2 files => 73525 bytes
+2023/08/20-23:09:55.212 e7c compacted to: files[ 0 0 1 0 0 0 0 ]

@@ -1,0 +1,8 @@
+2023-08-14 16:48:21.099 [info] Extension host with pid 621379 started
+2023-08-14 16:48:21.099 [info] Skipping acquiring lock for /home/hydra7/.config/Code/User/workspaceStorage/8397863cb4b9a28464902dc07a60c3ed.
+2023-08-14 16:48:21.333 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-14 16:48:21.345 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2023-08-14 16:48:21.370 [info] ExtensionService#_doActivateExtension steoates.autoimport, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2023-08-14 16:48:21.398 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2023-08-14 16:48:22.024 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-14 16:48:22.033 [info] Extension host with pid 621379 exiting with code 0

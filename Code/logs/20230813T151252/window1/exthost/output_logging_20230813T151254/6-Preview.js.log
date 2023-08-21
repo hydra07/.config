@@ -1,0 +1,13 @@
+$ node --version
+v20.5.0
+✅ Detected compatible NodeJS version
+🚀 Starting Preview.js daemon...
+Streaming daemon logs to: /home/hydra7/.vscode/extensions/zenclabs.previewjs-1.24.2/dist/daemon.log
+[ready] Preview.js daemon server is now running at http://localhost:9315
+Error: connect ECONNREFUSED 127.0.0.1:9315
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+Preview.js daemon could not be started.
+
+⚠️ Preview.js daemon was restarted ⚠️
+
+[ready] Preview.js daemon server is now running at http://localhost:9315

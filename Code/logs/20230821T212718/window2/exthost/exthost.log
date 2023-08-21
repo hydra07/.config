@@ -1,0 +1,39 @@
+2023-08-21 22:00:31.178 [info] Extension host with pid 421719 started
+2023-08-21 22:00:31.367 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-21 22:00:31.372 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: true, activationEvent: '*'
+2023-08-21 22:00:31.376 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-08-21 22:00:31.393 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2023-08-21 22:00:31.416 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2023-08-21 22:00:31.424 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2023-08-21 22:00:31.448 [info] ExtensionService#_doActivateExtension skacekachna.win-opacity, startup: true, activationEvent: '*'
+2023-08-21 22:00:31.458 [error] Activating extension skacekachna.win-opacity failed due to an error:
+2023-08-21 22:00:31.458 [error] Error: /home/hydra7/.vscode/extensions/skacekachna.win-opacity-1.1.7/build/Release/win_opacity.node: invalid ELF header
+	at process.func [as dlopen] (node:electron/js2c/asar_bundle:2:1822)
+	at Module._extensions..node (node:internal/modules/cjs/loader:1273:18)
+	at Object.func [as .node] (node:electron/js2c/asar_bundle:2:1822)
+	at Module.load (node:internal/modules/cjs/loader:1058:32)
+	at Module._load (node:internal/modules/cjs/loader:893:12)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at o._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28084)
+	at f._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:25418)
+	at C._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:19511)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at g (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:647)
+	at Object.<anonymous> (/home/hydra7/.vscode/extensions/skacekachna.win-opacity-1.1.7/src/extension.js:2:16)
+	at u._compile (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:1271)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1243:10)
+	at Module.load (node:internal/modules/cjs/loader:1058:32)
+	at Module._load (node:internal/modules/cjs/loader:893:12)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at o._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28084)
+	at f._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:25418)
+	at C._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:19511)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at require (node:internal/modules/cjs/helpers:102:18)
+	at Function.i [as __$__nodeRequire] (/opt/visual-studio-code/resources/app/out/vs/loader.js:5:98)
+	at r.rb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:26597)
+	at async Promise.all (index 0)
+2023-08-21 22:00:31.683 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-21 22:00:31.708 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-21 22:00:31.783 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-21 22:00:31.788 [info] Extension host with pid 421719 exiting with code 0

@@ -1,0 +1,9 @@
+[2023-08-20 23:13:09.865] Starting Git Graph ...
+[2023-08-20 23:13:10.075] Using git (version: 2.41.0)
+[2023-08-20 23:13:10.085] Started Git Graph - Ready to use!
+[2023-08-20 23:13:10.086] Searching workspace for new repos ...
+[2023-08-20 23:13:10.096] > git rev-parse --show-toplevel
+[2023-08-20 23:13:10.242] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2023-08-20 23:13:10.321] Added new repo: /home/hydra7/.config
+[2023-08-20 23:13:10.329] Completed searching workspace for new repos
+[2023-08-20 23:13:10.330] Showing "Git Graph" Status Bar Item

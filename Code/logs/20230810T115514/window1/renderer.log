@@ -1,0 +1,22 @@
+2023-08-10 11:55:15.832 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-08-10 11:55:18.666 [info] [perf] Render performance baseline is 61ms
+2023-08-10 11:57:52.347 [error] Error: ENOENT: no such file or directory, copyfile '/home/hydra7/.config/nvim/lua/hydra7/config/lazy.lua' -> '/home/hydra7/.config/Code/User/History/-197d8f78/BnES.lua': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, copyfile '/home/hydra7/.config/nvim/lua/hydra7/config/lazy.lua' -> '/home/hydra7/.config/Code/User/History/-197d8f78/BnES.lua'
+    at n.create (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:37:3400)
+    at i (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:37:3512)
+    at t.ab (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:42:38244)
+    at t.Y (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:42:37481)
+2023-08-10 11:57:56.353 [error] Error: ENOENT: no such file or directory, copyfile '/home/hydra7/.config/nvim/lua/hydra7/config/plugins/example.lua' -> '/home/hydra7/.config/Code/User/History/408493b/usG9.lua': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, copyfile '/home/hydra7/.config/nvim/lua/hydra7/config/plugins/example.lua' -> '/home/hydra7/.config/Code/User/History/408493b/usG9.lua'
+    at n.create (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:37:3400)
+    at i (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:37:3512)
+    at t.ab (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:42:38244)
+    at t.Y (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:42:37481)
+2023-08-10 12:25:31.224 [error] cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua'): CodeExpectedError: cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua')
+    at n.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:37690)
+2023-08-10 12:27:02.179 [error] cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua'): CodeExpectedError: cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua')
+    at n.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:37690)
+2023-08-10 12:30:02.185 [error] cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua'): CodeExpectedError: cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua')
+    at n.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:37690)
+2023-08-10 12:35:02.177 [error] cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua'): CodeExpectedError: cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua')
+    at n.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:37690)

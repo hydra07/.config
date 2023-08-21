@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:path=/home/hydra7/.cache/ibus/dbus-TwMnqwgM,guid=fb1d9e18f5595964cc65b1f064e374b1
+IBUS_DAEMON_PID=355791

@@ -1,0 +1,248 @@
+2023-08-20 23:12:37.365 [info] Extension host with pid 158341 started
+2023-08-20 23:12:37.365 [info] Skipping acquiring lock for /home/hydra7/.config/Code/User/workspaceStorage/fbc0ff3c1349c200f01d2c6aea0cb817.
+2023-08-20 23:12:37.793 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-20 23:12:37.810 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-20 23:12:37.844 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-20 23:12:38.278 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-20 23:12:38.293 [info] Eager extensions activated
+2023-08-20 23:12:38.295 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2023-08-20 23:12:38.295 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.296 [error] Activating extension vscode.merge-conflict failed due to an error:
+2023-08-20 23:12:38.296 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.296 [error] Activating extension bradlc.vscode-tailwindcss failed due to an error:
+2023-08-20 23:12:38.296 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.297 [error] Activating extension formulahendry.code-runner failed due to an error:
+2023-08-20 23:12:38.297 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.297 [error] Activating extension GitHub.copilot failed due to an error:
+2023-08-20 23:12:38.298 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.298 [error] Activating extension GitHub.copilot-chat failed due to an error:
+2023-08-20 23:12:38.298 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.299 [error] Activating extension PKief.material-icon-theme failed due to an error:
+2023-08-20 23:12:38.299 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.299 [error] Activating extension ritwickdey.LiveServer failed due to an error:
+2023-08-20 23:12:38.299 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.300 [error] Activating extension streetsidesoftware.code-spell-checker failed due to an error:
+2023-08-20 23:12:38.300 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.300 [error] Activating extension usernamehw.errorlens failed due to an error:
+2023-08-20 23:12:38.300 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.301 [error] Activating extension vadimcn.vscode-lldb failed due to an error:
+2023-08-20 23:12:38.301 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.301 [error] Activating extension vscode-icons-team.vscode-icons failed due to an error:
+2023-08-20 23:12:38.301 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+	at N.<computed>.T.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+	at r.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9944)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7100)
+	at p.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6219)
+	at p.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6180)
+	at p.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5637)
+	at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5564)
+	at D.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5117)
+	at D.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5072)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4039
+	at Array.map (<anonymous>)
+	at D.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:4027)
+	at D.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:3939)
+	at r.W (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:8396)
+	at r.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13311)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13992
+2023-08-20 23:12:38.320 [info] Extension host with pid 158341 exiting with code 0

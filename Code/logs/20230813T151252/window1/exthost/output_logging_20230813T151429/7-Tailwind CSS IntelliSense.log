@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/hydra7/Dev/react/train","configPath":"/home/hydra7/Dev/react/train/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/hydra7/Dev/react/train/tailwind.config.js","priority":0},{"pattern":"/home/hydra7/Dev/react/train/src/**/*.{ts,tsx,css,html}","priority":1},{"pattern":"/home/hydra7/Dev/react/train/**","priority":3}]}]
+[Global] Adding watch patterns: /home/hydra7/Dev/react/train/tailwind.config.js, /home/hydra7/Dev/react/train
+[tailwind.config.js] Initializing...
+[tailwind.config.js] Loaded Tailwind CSS config file: /home/hydra7/Dev/react/train/tailwind.config.js
+[tailwind.config.js] Loaded postcss v8.4.27: /home/hydra7/Dev/react/train/node_modules/postcss
+[tailwind.config.js] Loaded tailwindcss v3.3.3: /home/hydra7/Dev/react/train/node_modules/tailwindcss
+[tailwind.config.js] Building...

@@ -1,0 +1,9 @@
+2023-08-16 21:20:25.992 [info] Deleted uninstalled extension from disk github.copilot /home/hydra7/.vscode/extensions/github.copilot-1.101.317
+2023-08-16 21:20:29.725 [info] Getting Manifest... github.copilot
+2023-08-16 21:20:29.874 [info] Installing extension: github.copilot
+2023-08-16 21:20:30.977 [warning] Extension signature verification failed with error 'UnknownError': github.copilot
+2023-08-16 21:20:31.255 [info] Extracted extension to file:///home/hydra7/.vscode/extensions/github.copilot-1.103.338: github.copilot
+2023-08-16 21:20:31.260 [info] Renamed to /home/hydra7/.vscode/extensions/github.copilot-1.103.338
+2023-08-16 21:20:31.262 [info] Extracting extension completed. github.copilot
+2023-08-16 21:20:31.279 [info] Extension installed successfully: github.copilot
+2023-08-16 21:20:31.283 [info] Marked extension as uninstalled github.copilot-1.102.333

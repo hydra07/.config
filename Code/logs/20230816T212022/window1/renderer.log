@@ -1,0 +1,12 @@
+2023-08-16 21:20:25.073 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-08-16 21:20:27.848 [info] [perf] Render performance baseline is 49ms
+2023-08-16 21:20:29.777 [error] Cannot find module '/home/hydra7/.vscode/extensions/github.copilot-1.102.333/dist/workerProxy.js': Error: Cannot find module '/home/hydra7/.vscode/extensions/github.copilot-1.102.333/dist/workerProxy.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1010:15)
+    at Module._load (node:internal/modules/cjs/loader:858:27)
+    at f._load (node:electron/js2c/asar_bundle:2:13330)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:87:12)
+    at MessagePort.<anonymous> (node:internal/main/worker_thread:202:24)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:694:20)
+    at exports.emitMessage (node:internal/per_context/messageport:23:28)

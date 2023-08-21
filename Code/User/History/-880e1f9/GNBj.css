@@ -1,0 +1,4 @@
+npm install tailwindcss
+@tailwind components;
+@tailwind utilities;
+

@@ -1,0 +1,18 @@
+2023-08-17 16:27:24.010 [info] Deleted uninstalled extension from disk github.copilot /home/hydra7/.vscode/extensions/github.copilot-1.102.333
+2023-08-17 16:27:28.455 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-08-17 16:27:28.457 [info] Getting Manifest... ms-python.vscode-pylance
+2023-08-17 16:27:28.593 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-08-17 16:27:28.617 [info] Installing extension: ms-python.vscode-pylance
+2023-08-17 16:27:29.567 [warning] Extension signature verification failed with error 'UnknownError': bradlc.vscode-tailwindcss
+2023-08-17 16:27:29.647 [info] Extracted extension to file:///home/hydra7/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.13: bradlc.vscode-tailwindcss
+2023-08-17 16:27:29.652 [info] Renamed to /home/hydra7/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.13
+2023-08-17 16:27:29.654 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2023-08-17 16:27:29.668 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-08-17 16:27:29.671 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.9.11
+2023-08-17 16:27:29.855 [info] Getting Manifest... ms-python.python
+2023-08-17 16:27:31.267 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-08-17 16:27:35.379 [info] Extracted extension to file:///home/hydra7/.vscode/extensions/ms-python.vscode-pylance-2023.8.30: ms-python.vscode-pylance
+2023-08-17 16:27:35.396 [info] Renamed to /home/hydra7/.vscode/extensions/ms-python.vscode-pylance-2023.8.30
+2023-08-17 16:27:35.398 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-08-17 16:27:35.409 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-08-17 16:27:35.414 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.8.20

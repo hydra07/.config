@@ -1,0 +1,22 @@
+{
+  "neodev": {
+    "library": {
+      "enabled": true,
+      "plugins": true
+    }
+  },
+  "neoconf": {
+    "plugins": {
+      "lua_ls": {
+        "enabled": true
+      },
+      "rust-analyzer": {
+        "enabled": true
+      },
+      "pyright": {
+        "enabled": true
+      }
+      
+    }
+  }
+}

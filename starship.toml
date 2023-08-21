@@ -1,0 +1,9 @@
+format = '''$directory$all$character'''
+
+[cmd_duration]
+# format = "[$duration]($style)⏱️"
+format = "took [$duration]($style)"
+
+# [character]
+# format = ""
+

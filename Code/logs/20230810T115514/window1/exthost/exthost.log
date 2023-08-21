@@ -1,0 +1,69 @@
+2023-08-10 11:55:16.285 [info] Extension host with pid 1959143 started
+2023-08-10 11:55:16.285 [info] Skipping acquiring lock for /home/hydra7/.config/Code/User/workspaceStorage/e4b73987a8530122c648138287ec92ab.
+2023-08-10 11:55:16.364 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-10 11:55:16.369 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: true, activationEvent: '*'
+2023-08-10 11:55:16.374 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-08-10 11:55:16.392 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2023-08-10 11:55:16.409 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2023-08-10 11:55:16.415 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2023-08-10 11:55:16.437 [info] ExtensionService#_doActivateExtension skacekachna.win-opacity, startup: true, activationEvent: '*'
+2023-08-10 11:55:16.447 [error] Activating extension skacekachna.win-opacity failed due to an error:
+2023-08-10 11:55:16.447 [error] Error: /home/hydra7/.vscode/extensions/skacekachna.win-opacity-1.1.7/build/Release/win_opacity.node: invalid ELF header
+	at process.func [as dlopen] (node:electron/js2c/asar_bundle:2:1822)
+	at Module._extensions..node (node:internal/modules/cjs/loader:1273:18)
+	at Object.func [as .node] (node:electron/js2c/asar_bundle:2:1822)
+	at Module.load (node:internal/modules/cjs/loader:1058:32)
+	at Module._load (node:internal/modules/cjs/loader:893:12)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at o._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28084)
+	at f._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:25418)
+	at C._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:19511)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at g (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:647)
+	at Object.<anonymous> (/home/hydra7/.vscode/extensions/skacekachna.win-opacity-1.1.7/src/extension.js:2:16)
+	at u._compile (/opt/visual-studio-code/resources/app/out/vs/loader.js:4:1271)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1243:10)
+	at Module.load (node:internal/modules/cjs/loader:1058:32)
+	at Module._load (node:internal/modules/cjs/loader:893:12)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at o._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28084)
+	at f._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:25418)
+	at C._load (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:19511)
+	at Module.require (node:internal/modules/cjs/loader:1082:19)
+	at require (node:internal/modules/cjs/helpers:102:18)
+	at Function.i [as __$__nodeRequire] (/opt/visual-studio-code/resources/app/out/vs/loader.js:5:98)
+	at r.rb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:26597)
+	at async Promise.all (index 0)
+2023-08-10 11:55:16.661 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-10 11:55:16.687 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-10 11:55:16.756 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-08-10 11:55:16.789 [info] Eager extensions activated
+2023-08-10 11:55:16.854 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:16.856 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:16.863 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:16.881 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:16.905 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:16.989 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:17.091 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:17.098 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:17.105 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:17.144 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:17.147 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:17.155 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:17.176 [info] ExtensionService#_doActivateExtension zenclabs.previewjs, startup: false, activationEvent: 'onStartupFinished'
+2023-08-10 11:55:17.190 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-10 11:55:17.207 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-10 11:55:17.226 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-10 11:55:17.981 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-08-10 11:55:25.934 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-08-10 11:55:25.943 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-08-10 12:25:31.222 [error] CodeExpectedError: cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua')
+    at n.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:37690)
+2023-08-10 12:25:32.120 [error] CodeExpectedError: cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua')
+    at n.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:37690)
+2023-08-10 12:27:02.177 [error] CodeExpectedError: cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua')
+    at n.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:37690)
+2023-08-10 12:30:02.183 [error] CodeExpectedError: cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua')
+    at n.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:37690)
+2023-08-10 12:35:02.176 [error] CodeExpectedError: cannot open file:///home/hydra7/.config/nvim/colorscheme.lua. Detail: Unable to read file '/home/hydra7/.config/nvim/colorscheme.lua' (Error: Unable to resolve nonexistent file '/home/hydra7/.config/nvim/colorscheme.lua')
+    at n.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:37690)

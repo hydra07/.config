@@ -1,0 +1,15 @@
+{
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Mocha.sublime-color-scheme",
+	"line_numbers_relative":true,
+
+
+
+
+
+	"theme": "auto",
+}

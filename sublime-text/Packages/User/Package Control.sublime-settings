@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Autoprefixer",
+		"Catppuccin color schemes",
+		"Emmet",
+		"HTML5",
+		"LSP",
+		"LSP-copilot",
+		"LSP-html",
+		"LSP-rust-analyzer",
+		"LSP-tailwindcss",
+		"LSP-typescript",
+		"Package Control",
+		"Terminus",
+		"Theme - Arc",
+	],
+}

@@ -1,0 +1,6 @@
+2023/08/15-00:02:38.036 8983c Creating DB /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_neovim.discourse.group_0.indexeddb.leveldb since it was missing.
+2023/08/15-00:02:38.040 8983c Reusing MANIFEST /home/hydra7/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_neovim.discourse.group_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/15-00:03:13.808 8983d Level-0 table #5: started
+2023/08/15-00:03:13.809 8983d Level-0 table #5: 4139 bytes OK
+2023/08/15-00:03:13.811 8983d Delete type=0 #3
+2023/08/15-00:03:13.811 8983d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
